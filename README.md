@@ -1,4 +1,4 @@
-rm -rf AYMAN
+rm -rf AYMAN-KING
 
 
 git clone https://github.com/Y-M-E/AYMAN-KING.git
