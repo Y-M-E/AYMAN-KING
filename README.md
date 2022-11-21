@@ -1,4 +1,4 @@
-rm -rf AYMAN-KING
+rm -rf AYMAN
 
 
 git clone https://github.com/Y-M-E/AYMAN-KING.git
@@ -8,4 +8,4 @@ git clone https://github.com/Y-M-E/AYMAN-KING.git
 cd AYMAN-KING
 
 
-python AYMAN-KING.py
+python AYMAN.py
